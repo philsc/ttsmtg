@@ -1,0 +1,81 @@
+1 Absorb Vis (MMA)
+1 Ajani, Strength of the Pride (M20) 2
+1 Angelic Accord (IMA) 7
+1 Anguished Unmaking (SOI) 242
+1 Athreos, God of Passage (JOU)
+1 Authority of the Consuls (KLD) 5
+1 Ayli, Eternal Pilgrim (OGW) 151
+1 Azor's Gateway (RIX) 176
+1 Blind Obedience (GTC) 57
+1 Cliffhaven Vampire (OGW) 153
+1 Clutch of the Undercity (RAV)
+1 Crypt Ghast (GTC) 139
+1 Crypt Incursion (DGM)
+1 Dawn of Hope (GRN) 8
+1 Defiant Bloodlord (BFZ) 107
+1 Dismal Backwater (EMA)
+1 Divinity of Pride (MMA) 228
+1 Dovin Baan (KLD) 179
+1 Dreadhorde Invasion (WAR) 86
+1 Dromar's Charm (C13) 187
+1 Erebos's Intervention (THB) 94
+1 Flooded Strand (KTK) 233
+1 Fumigate (KLD) 15
+1 Godless Shrine (GTC) 248
+1 Gray Merchant of Asphodel (THS)
+1 Greed (C13) 79
+1 Hallowed Fountain (RTR) 251
+1 Heliod's Intervention (THB) 19
+1 Heliod, God of the Sun (THS) 17
+1 Invoke the Divine (DAR) 16
+3 Island (THB) 251
+1 Jwar Isle Refuge (C13) 260
+1 Karlov of the Ghost Council (C15) 46
+1 Kaya's Guile (MH1) 205
+1 Kaya's Wrath (RNA) 187
+1 Kokusho, the Evening Star (DRB) 95
+1 Krav, the Unredeemed (BBD) 4
+1 Lim-Dul's Vault (C13) 197
+1 Luminarch Ascension (A25)
+1 Marsh Flats (MM3) 239
+1 Necropotence (V09)
+1 Noxious Gearhulk (KLD) 3
+1 Ob Nixilis, Unshackled (M15) 110
+1 Ojutai's Command (000) 227
+1 Oloro, Ageless Ascetic (000)
+1 Phyrexian Delver (C13) 115
+1 Phyrexian Metamorph (NPH)
+1 Phyrexian Processor (V16)
+1 Phyrexian Reclamation (C13)
+6 Plains (THB) 250
+1 Polluted Delta (KTK) 239
+1 Prismatic Vista (MH1) 244
+1 Pristine Talisman (IMA)
+1 Profane Command (MM2) 82
+1 Read the Bones (THS)
+1 Regal Bloodlord (M19) 222
+1 Regna, the Redeemer (BBD) 3
+1 Rhox Faithmender (M13)
+1 Righteous Confluence (C15) 7
+1 Sanguine Bond (IMA)
+1 Scoured Barrens (EMA)
+1 Sejiri Refuge (ZEN)
+1 Serra Ascendant (M11) 31
+1 Shambling Vent (BFZ) 244
+1 Silent Clearing (MH1) 246
+1 Soul Warden (MM3)
+1 Soul's Attendant (ROE)
+1 Springjack Pasture (C13)
+1 Sun Droplet (C13)
+1 Sunscorch Regent (DTK) 74
+1 Survival Cache (IMA)
+14 Swamp (THB) 252
+1 Swords to Plowshares (EMA)
+1 Toxic Deluge (C13) 108
+1 Tranquil Cove (M20) 284
+1 Vizkopa Guildmage (IMA)
+1 Vraska's Contempt (XLN) 129
+1 Watery Grave (RAV) 259
+1 Well of Lost Dreams (C13) 231
+1 Wretched Confluence (CM1) 23
+
